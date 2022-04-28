@@ -7,8 +7,17 @@ font-family: 'Poppins', sans-serif, 'Roboto Slab', serif;
 background-color: #fafafa;
 }
 
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
 h1, h2 {
     text-align: center;
+    margin-top: 10px;
 }
 
 .logo {
@@ -38,6 +47,7 @@ label {
     border-radius: 7px;
     cursor: pointer;  
     margin-bottom: 3px;
+    font-size: 17px;
 }
 
 label:hover {
@@ -48,6 +58,7 @@ button {
     width: 80%;
     display: block;
     margin: auto;
+    margin-top: 12px;
     padding: 10px;
     background-color: yellow;
     border: none;
